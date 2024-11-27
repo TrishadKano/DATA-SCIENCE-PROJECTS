@@ -137,18 +137,26 @@ sudo nano /etc/sysctl.conf
 
 ![Picture11](https://github.com/user-attachments/assets/db7e30ec-9ce7-4cb7-8ba4-01f7eb8512b8)
 # Uncomment and modify the line:
-t
+
 net.ipv4.ip_forward = 1
 # Assign Static IP to Interface
 Set the IP address for the enp0s8 interface:
 
 sudo ifconfig enp0s8 20.0.0.1
 sudo ip route add 20.0.0.0/24 via 20.0.0.1
+
+![Picture12](https://github.com/user-attachments/assets/809add34-a944-45c5-add8-5bca73334937)
 # Restart Services
 Restart the network manager and DHCP server:
 
 sudo systemctl restart NetworkManager
+![Picture13](https://github.com/user-attachments/assets/f1668e44-7bff-49da-a570-db7879723d87)
+
 sudo systemctl restart isc-dhcp-server
+![Picture14](https://github.com/user-attachments/assets/5acdb245-53a5-408b-ad9c-708139c3ab46)
+
+
+
 # Testing the Setup
 - Spin up client machines on the same network.
 - Verify that the DHCP server assigns IP addresses (e.g., 20.0.0.5 and 20.0.0.6).
