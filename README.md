@@ -243,7 +243,46 @@ python3 sqlmap.py -u "http://localhost/DVWA/vulnerabilities/sqli/?id=5&Submit=Su
 ![Picture24](https://github.com/user-attachments/assets/079d07ab-3d96-4988-bf12-060fa302e189)
 
 
+# REPORT:
 
+ Out of all the SQLMap operations, a report can be created for either an attacker gathering information for malicious purposes about a particular web applications or security administrators to improve their security protocols.
+
+ ![Picture25](https://github.com/user-attachments/assets/86ada69d-f3be-40cd-b513-32924b55de6e)
+
+ The summarized data of all the operations were summarized and stored under /host/trishad/.local/share/sqlmap/output/localhost . So to access the files we had to navigate to the directory to get the data summarized in text, so as to create a report and save it in a pdf form.
+
+ ![Picture26](https://github.com/user-attachments/assets/f3efc3d0-8655-4026-8d05-e844e929819a)
+
+# SQL INJECTION ATTACK ON THE DVWA: 
+
+![Picture27](https://github.com/user-attachments/assets/819e4d83-cf07-4302-8637-0ffb744cfa8c)
+
+The injection of ' OR 1=1 -- ' is a common and simple demonstration of SQL injection vulnerabilities, showing how an attacker can manipulate SQL queries to gain unauthorized access or retrieve data they should not be able to access.
+Attack 2: The command ' OR 1=1 UNION SELECT user, password FROM users# is an SQL injection attack payload, and it is designed to manipulate SQL queries in a way that allows the attacker to extract sensitive data from a database and retrieve all the users and their passwords. Since the passwords are hashed we can decrypt the passwords using SQLMap.
+
+
+![Picture28](https://github.com/user-attachments/assets/c267f3ec-b8c3-4759-a3ca-087385a8c471)
+
+# DECRYPTION OF HASHED PASSWORDS :
+
+![Picture30](https://github.com/user-attachments/assets/1845700f-f046-44d9-9cd3-261536c9a216)
+
+OUTPUT: The Hashed passwords were cracked using the Dictionary-Based Attack, which is another form of an attack.
+
+
+XSS (REFLECTED) ATTACK ON DVWA: 
+A Reflected Cross-Site Scripting (XSS) attack is a type of security vulnerability that allows attackers to inject malicious scripts into web applications, which are then executed in the context of the victim's browser.
+How it Works?
+For DVWA:
+Original URL: http://localhost/DVWA/vulnerabilities/xss_r/?name=Trishad#
+
+![Picture31](https://github.com/user-attachments/assets/b830ab12-5837-4c79-a44c-eb2af9df7048)
+
+CRAFTED LINK (MALICIOUS LINK):  http://localhost/DVWA/vulnerabilities/xss_r/?name=<script>alert(‘You + Have + Been+ Hacked’)<%2Fscript>#
+The Malicious Script: <script>alert(‘You Have Been Hacked’)</script> was injected to original web page in creating another web page that is malicious, to deceive users into giving sensitive information.
+
+![Picture33](https://github.com/user-attachments/assets/10163e0d-d06a-4bcb-935d-072805e6c8d0)
+OUTPUT: After Successfully Executing the attack, a new URL is created
 
 # Testing Vulnerabilities
 
