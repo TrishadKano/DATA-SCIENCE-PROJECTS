@@ -3,7 +3,7 @@
 # Router Installation and Configuration
 
  # Introduction
-The objective of this report is to document the installation and configuration process of a router in a network infrastructure environment. The router plays a critical role in facilitating network communication and ensuring connectivity between various devices. This report outlines the steps involved in setting up the router, analyzes the results of the configuration process, discusses challenges faced, lessons learned, and provides suggestions for future improvements.
+The objective of this report is to document the installation and configuration process of a router in a network infrastructure environment. The router plays a critical role in facilitating network communication and ensuring connectivity between various devices. This report outlines the steps involved in setting up the router, analyzes the results of the configuration process and provides suggestions for future improvements.
 
 # Installation and Configuration Process
 
