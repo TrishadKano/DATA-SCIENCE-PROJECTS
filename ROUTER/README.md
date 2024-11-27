@@ -78,13 +78,19 @@ sudo nano dhcpd.conf
 # Add the following configuration:
 
 ddns-update-style none;
+
 option domain-name-servers 8.8.8.8, 8.8.4.4;
+
 default-lease-time 600;
+
 max-lease-time 7200;
+
 authoritative;
 
-subnet 20.0.0.0 netmask 255.255.255.0 {
+subnet 20.0.0.0 netmask 255.255.255.0 
+{
     range 20.0.0.5 20.0.0.10;
+    
     option routers 20.0.0.1;
 }
 
@@ -152,6 +158,7 @@ sudo ip route add 20.0.0.0/24 via 20.0.0.1
 Restart the network manager and DHCP server:
 
 sudo systemctl restart NetworkManager
+
 sudo systemctl restart isc-dhcp-server
 ![Picture13](https://github.com/user-attachments/assets/f1668e44-7bff-49da-a570-db7879723d87)
 
