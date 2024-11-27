@@ -49,6 +49,8 @@ Set a hostname for easy identification:
 
 sudo hostnamectl set-hostname router
 
+![Picture1](https://github.com/user-attachments/assets/4869f003-4a54-4349-8a9c-7c2c3e77b95c)
+
 
 # Update the /etc/hosts file:
 sudo nano /etc/hosts
