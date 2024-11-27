@@ -45,7 +45,8 @@ This project demonstrates how to:
 # Steps to Configure the Router
 
 # Change Hostname
-Set a hostname for easy identification:
+
+First step in setting up our router is to changer hostname of our machine so we can easily identify it, in our case “router”. This step is optional.
 
 sudo hostnamectl set-hostname router
 
@@ -53,16 +54,12 @@ sudo hostnamectl set-hostname router
 
 
 # Update the /etc/hosts file:
-sudo nano /etc/hosts
-
-Modify the second line to:
-
-127.0.0.1   router
-Restart the machine to apply the new hostname.
+As well as editing hosts file using this command sudo nano /etc/hosts to launch an editor and rename second line 127.0.0.1 to router. After this we need to restart our machine so that it’s new name can appear.
 
 ![Picture2](https://github.com/user-attachments/assets/c0d0b8db-0bbd-4664-8f9a-2a8ddf6cd134)
 # Configuring the DHCP Server
-Install the DHCP server:
+Dynamic Host Configuration Protocol (DHCP) allows you to centralize your IP address management. Machines which are added to a network will issue a DHCP request asking any available DHCP server to provide it with configuration information including IP address, subnet mask, gateway, DNS server,
+We need to update packages and install DHCP server using command below.
 
 sudo apt update
 sudo apt install isc-dhcp-server
@@ -70,6 +67,8 @@ sudo apt install isc-dhcp-server
 ![Picture3](https://github.com/user-attachments/assets/fa49bd04-6370-4932-9caf-62c2fbc6c153)
 
 # Edit the dhcpd.conf file:
+
+After successfully installing dhcp-server we need to make few changes in the dhcpd.conf file which we can find by navigating to this folder /etc/dhcp using this command cd /etc/dhcp and copy dhcpd.conf file to a backup file using this command sudo cp dhcpd.conf dhcpd.conf.backup  in case we make errors we can quickly look at backup file for reference as we are going to edit dhcpd.conf. 
 
 cd /etc/dhcp
 sudo cp dhcpd.conf dhcpd.conf.backup
@@ -97,7 +96,6 @@ subnet 20.0.0.0 netmask 255.255.255.0 {
 # Update the /etc/default/isc-dhcp-server file to set the interface:
 
 sudo nano /etc/default/isc-dhcp-server
-Specify the interface, e.g., enp0s8.
 
 ![Picture8](https://github.com/user-attachments/assets/9fe666f7-9ca9-4072-afe9-9d78532952a7)
 # Configuring the Firewall with iptables
@@ -131,7 +129,10 @@ sudo iptables -A FORWARD -i eth2 -o eth0 -m state --state RELATED,ESTABLISHED -j
 
 ![Picture10](https://github.com/user-attachments/assets/48db268c-b7fb-4356-8362-cb99b09391cb)
 # Enable IP Forwarding
-Edit the /etc/sysctl.conf file to enable IP forwarding:
+
+IP Forwarding using net.ipv4.ip_forward
+We need to edit the /etc/sysctl.conf file using # sudo nano /etc/sysctl.conf, to make sure the new setting survives a reboot.
+so we need to uncomment the line # net.ipv4.ip_forward = 0 and change its value from net.ipv4.ip_forward = 0 to net.ipv4.ip_forward = 1
 
 sudo nano /etc/sysctl.conf
 
@@ -140,7 +141,8 @@ sudo nano /etc/sysctl.conf
 
 net.ipv4.ip_forward = 1
 # Assign Static IP to Interface
-Set the IP address for the enp0s8 interface:
+
+Give the interface enp0s8 IP address that matches the router option defined in the dhcpd.conf file and add the route via the IP address given to the interface enp0s8 using commands.
 
 sudo ifconfig enp0s8 20.0.0.1
 sudo ip route add 20.0.0.0/24 via 20.0.0.1
@@ -150,11 +152,15 @@ sudo ip route add 20.0.0.0/24 via 20.0.0.1
 Restart the network manager and DHCP server:
 
 sudo systemctl restart NetworkManager
+sudo systemctl restart isc-dhcp-server
 ![Picture13](https://github.com/user-attachments/assets/f1668e44-7bff-49da-a570-db7879723d87)
 
-sudo systemctl restart isc-dhcp-server
-![Picture14](https://github.com/user-attachments/assets/5acdb245-53a5-408b-ad9c-708139c3ab46)
 
+Now that DHCP server is running we can spin up client and server machines to test our dhcp configuration settings as well as sending packets. We need to connect the client machines on the same network as the router.
+DHCP server is working as intended as it was able to give client machines IP addresses 20.0.0.5, and 20.0.0.6 respectively.
+We can test the communication between the clients
+
+![Picture14](https://github.com/user-attachments/assets/5acdb245-53a5-408b-ad9c-708139c3ab46)
 
 
 # Testing the Setup
