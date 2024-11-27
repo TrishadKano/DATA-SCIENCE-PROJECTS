@@ -89,9 +89,12 @@ authoritative;
 
 subnet 20.0.0.0 netmask 255.255.255.0 
 {
+   
     range 20.0.0.5 20.0.0.10;
     
+    
     option routers 20.0.0.1;
+    
 }
 
 ![Picture5](https://github.com/user-attachments/assets/155cd670-80bb-4a1d-90c0-f1cf17a6a19e)
@@ -151,6 +154,7 @@ net.ipv4.ip_forward = 1
 Give the interface enp0s8 IP address that matches the router option defined in the dhcpd.conf file and add the route via the IP address given to the interface enp0s8 using commands.
 
 sudo ifconfig enp0s8 20.0.0.1
+
 sudo ip route add 20.0.0.0/24 via 20.0.0.1
 
 ![Picture12](https://github.com/user-attachments/assets/809add34-a944-45c5-add8-5bca73334937)
