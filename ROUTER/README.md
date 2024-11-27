@@ -54,6 +54,7 @@ sudo hostnamectl set-hostname router
 
 # Update the /etc/hosts file:
 sudo nano /etc/hosts
+
 Modify the second line to:
 
 127.0.0.1   router
@@ -92,14 +93,23 @@ sudo ufw allow 67/udp
 # Apply firewall rules:
 
 sudo iptables -A INPUT -i lo -j ACCEPT
+
 sudo iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+
 sudo iptables -A INPUT -p tcp --dport 22 -j ACCEPT
+
 sudo iptables -P INPUT DROP
+
 sudo iptables -P FORWARD DROP
+
 sudo iptables -P OUTPUT ACCEPT
+
 sudo iptables -A FORWARD -i eth0 -j ACCEPT
+
 sudo iptables -t nat -A POSTROUTING -o eth2 -j MASQUERADE
+
 sudo iptables -A FORWARD -i eth2 -o eth0 -m state --state RELATED,ESTABLISHED -j ACCEPT
+
 # Enable IP Forwarding
 Edit the /etc/sysctl.conf file to enable IP forwarding:
 
