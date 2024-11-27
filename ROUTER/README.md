@@ -59,16 +59,23 @@ Modify the second line to:
 
 127.0.0.1   router
 Restart the machine to apply the new hostname.
+
+![Picture2](https://github.com/user-attachments/assets/c0d0b8db-0bbd-4664-8f9a-2a8ddf6cd134)
 # Configuring the DHCP Server
 Install the DHCP server:
 
 sudo apt update
 sudo apt install isc-dhcp-server
+
+![Picture3](https://github.com/user-attachments/assets/fa49bd04-6370-4932-9caf-62c2fbc6c153)
+
 # Edit the dhcpd.conf file:
 
 cd /etc/dhcp
 sudo cp dhcpd.conf dhcpd.conf.backup
 sudo nano dhcpd.conf
+
+![Picture4](https://github.com/user-attachments/assets/c10cace2-0753-4571-a0f3-1c140ee8e89f)
 # Add the following configuration:
 
 ddns-update-style none;
@@ -81,15 +88,26 @@ subnet 20.0.0.0 netmask 255.255.255.0 {
     range 20.0.0.5 20.0.0.10;
     option routers 20.0.0.1;
 }
+
+![Picture5](https://github.com/user-attachments/assets/155cd670-80bb-4a1d-90c0-f1cf17a6a19e)
+
+![Picture6](https://github.com/user-attachments/assets/a9f80f0a-e459-4900-83ee-0d8ace79ac72)
+
+![Picture7](https://github.com/user-attachments/assets/911d131c-8d40-44e7-97d1-6c696e13a2e3)
 # Update the /etc/default/isc-dhcp-server file to set the interface:
 
 sudo nano /etc/default/isc-dhcp-server
 Specify the interface, e.g., enp0s8.
+
+![Picture8](https://github.com/user-attachments/assets/9fe666f7-9ca9-4072-afe9-9d78532952a7)
 # Configuring the Firewall with iptables
 Enable the firewall and allow DHCP communication:
 
 sudo ufw enable
 sudo ufw allow 67/udp
+
+![Picture9](https://github.com/user-attachments/assets/4cb5cfe0-e798-4d34-bbf9-608fd93874b5)
+
 # Apply firewall rules:
 
 sudo iptables -A INPUT -i lo -j ACCEPT
@@ -110,10 +128,14 @@ sudo iptables -t nat -A POSTROUTING -o eth2 -j MASQUERADE
 
 sudo iptables -A FORWARD -i eth2 -o eth0 -m state --state RELATED,ESTABLISHED -j ACCEPT
 
+
+![Picture10](https://github.com/user-attachments/assets/48db268c-b7fb-4356-8362-cb99b09391cb)
 # Enable IP Forwarding
 Edit the /etc/sysctl.conf file to enable IP forwarding:
 
 sudo nano /etc/sysctl.conf
+
+![Picture11](https://github.com/user-attachments/assets/db7e30ec-9ce7-4cb7-8ba4-01f7eb8512b8)
 # Uncomment and modify the line:
 t
 net.ipv4.ip_forward = 1
