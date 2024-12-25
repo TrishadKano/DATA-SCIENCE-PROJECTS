@@ -1,11 +1,11 @@
-## Power BI Projects ##
+# Power BI Projects
 Welcome to my Power BI project repository! This repository showcases two Power BI dashboards: Car Sales Dashboard and HR Dashboard. These projects highlight my ability to visualize and analyze data effectively, providing actionable insights for decision-making.
-## 1.Car Sales Dashboard ##
+## 1.Car Sales Dashboard
 
-# Objective:
+### Objective:
 To analyze car sales performance across regions, identify trends, and assist stakeholders in making informed business decisions.
 
-# Key Features:
+####Key Features:
 Sales Performance: Tracks total sales, revenue, and profit margins across different regions and time periods.
 
 Customer Insights: Displays key customer demographics and preferences.
@@ -14,21 +14,21 @@ Trends & Patterns: Highlights sales trends by car type, model, and dealer perfor
 
 Interactive Filters: Enables dynamic filtering by region, car model, and time period.
 
-Tools Used:
+####Tools Used:
 
 Data Source: CSV files with sales and customer data.
 
 Power BI Features: Slicers, custom visuals, and drill-through pages.
 
-Snapshot of the Dashboard:
+# Snapshot of the Dashboard:
 
-## 2. HR Dashboard ##
+## 2. HR Dashboard
 
-Objective:
+### Objective:
 
 To provide a comprehensive view of workforce metrics, helping HR managers monitor employee performance, retention, and diversity.
 
-Key Features:
+#### Key Features:
 
 Employee Overview: Displays headcount, gender diversity, and department distribution.
 
@@ -38,13 +38,13 @@ Recruitment Analysis: Highlights hiring trends and vacancy statistics.
 
 Interactive Features: Allows filtering by department, job role, and time period.
 
-Tools Used:
+### Tools Used:
 
 Data Source: Excel files with employee and recruitment data.
 
 Power BI Features: DAX calculations, data modeling, and interactive visualizations.
 
-Snapshot of the Dashboard:
+# Snapshot of the Dashboard:
 
 ## How to Access the Dashboards ##
 
