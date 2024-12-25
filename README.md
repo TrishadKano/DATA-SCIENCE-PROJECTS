@@ -49,4 +49,6 @@ Source: Udemy Courses Dataset (Replace # with the actual link to your dataset).
 
 ![output1](https://github.com/user-attachments/assets/34bd0ce2-eba3-4e5c-8722-2a0dd5a4af33)
 
+![output3](https://github.com/user-attachments/assets/c86e831e-63b8-4748-981d-e44013a9c823)
 
+![output4](https://github.com/user-attachments/assets/51b946f1-4aad-4384-8173-998bfd2eec7c)
