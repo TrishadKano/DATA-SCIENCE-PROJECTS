@@ -5,7 +5,7 @@ Welcome to my Power BI project repository! This repository showcases two Power B
 ### Objective:
 To analyze car sales performance across regions, identify trends, and assist stakeholders in making informed business decisions.
 
-####Key Features:
+### Key Features:
 Sales Performance: Tracks total sales, revenue, and profit margins across different regions and time periods.
 
 Customer Insights: Displays key customer demographics and preferences.
@@ -14,7 +14,7 @@ Trends & Patterns: Highlights sales trends by car type, model, and dealer perfor
 
 Interactive Filters: Enables dynamic filtering by region, car model, and time period.
 
-####Tools Used:
+### Tools Used:
 
 Data Source: CSV files with sales and customer data.
 
