@@ -38,7 +38,7 @@ The dataset contains information about Udemy courses, including:
 
 Source: Udemy Courses Dataset (Replace # with the actual link to your dataset).
 
-## Project Highlights
+## RESULTS OF EXPLORATORY DATA ANALYSIS
 
 
 
@@ -47,8 +47,11 @@ Source: Udemy Courses Dataset (Replace # with the actual link to your dataset).
 
 ![1](https://github.com/user-attachments/assets/e4dabf6e-7fc4-4670-a81d-9c14a3cd138f)
 
+
 ![output1](https://github.com/user-attachments/assets/34bd0ce2-eba3-4e5c-8722-2a0dd5a4af33)
 
+
 ![output3](https://github.com/user-attachments/assets/c86e831e-63b8-4748-981d-e44013a9c823)
+
 
 ![output4](https://github.com/user-attachments/assets/51b946f1-4aad-4384-8173-998bfd2eec7c)
