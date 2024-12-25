@@ -40,15 +40,9 @@ Source: Udemy Courses Dataset (Replace # with the actual link to your dataset).
 
 ## Project Highlights
 
-1. Price Analysis
-Distribution of course prices across different categories.
 
 
-3. Ratings and Reviews
-Analysis of average ratings and their distribution.
+![output](https://github.com/user-attachments/assets/5ed6166a-22fc-4e39-967b-8b69786c2910)
 
-4. Category Analysis
-Popular course categories based on the number of courses and subscribers.
 
-5. Visual Insights
-Visualizations include histograms, bar charts, scatter plots, and pie charts to highlight patterns in the data.
+
