@@ -48,6 +48,8 @@ Power BI Features: DAX calculations, data modeling, and interactive visualizatio
 
 # Snapshot of the Dashboard:
 
+![image](https://github.com/user-attachments/assets/d196227c-df0f-48cf-8fbb-013f9f5769d4)
+
 ## How to Access the Dashboards ##
 
 Download the .pbix files for each project from this repository.
