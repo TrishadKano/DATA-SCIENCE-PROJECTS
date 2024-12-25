@@ -22,6 +22,8 @@ Power BI Features: Slicers, custom visuals, and drill-through pages.
 
 # Snapshot of the Dashboard:
 
+![image](https://github.com/user-attachments/assets/2be00cd2-606d-4c95-9480-e8df69908daa)
+
 ## 2. HR Dashboard
 
 ### Objective:
