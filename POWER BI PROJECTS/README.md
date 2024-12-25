@@ -44,9 +44,11 @@ Interactive Features: Allows filtering by department, job role, and time period.
 
 ### Tools Used:
 
-Data Source: Excel files with employee and recruitment data.
-
 Power BI Features: DAX calculations, data modeling, and interactive visualizations.
+
+### Data Sources
+
+HR data: The primary dataset used fo this analysis is the "HR Analytics data and HR employee data.xlsx", containing information about employees
 
 # Snapshot of the Dashboard:
 
