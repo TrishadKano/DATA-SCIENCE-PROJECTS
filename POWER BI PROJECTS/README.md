@@ -20,6 +20,10 @@ Data Source: CSV files with sales and customer data.
 
 Power BI Features: Slicers, custom visuals, and drill-through pages.
 
+### Data Sources
+
+Car sales data: The primary dataset used fo this analysis is the "Car Sales.csv", containing information about sales performance and customer insights
+
 # Snapshot of the Dashboard:
 
 ![image](https://github.com/user-attachments/assets/2be00cd2-606d-4c95-9480-e8df69908daa)
