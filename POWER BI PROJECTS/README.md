@@ -20,7 +20,7 @@ Power BI Features: Slicers, custom visuals, and drill-through pages.
 
 ### Data Sources
 
-Car sales data: The primary dataset used fo this analysis is the "Car Sales.xlsx", containing information about sales performance and customer insights
+**Car sales dataset**: The primary dataset used fo this analysis is the "Car Sales.xlsx", containing information about sales performance and customer insights
 
 # Snapshot of the Dashboard:
 
@@ -48,7 +48,7 @@ Power BI Features: DAX calculations, data modeling, and interactive visualizatio
 
 ### Data Sources
 
-HR data: The primary dataset used fo this analysis is the "HR Analytics data and HR employee data.xlsx", containing information about employees
+**HR dataset**: The primary dataset used fo this analysis is the "HR Analytics data and HR employee data.xlsx", containing information about employees
 
 # Snapshot of the Dashboard:
 
