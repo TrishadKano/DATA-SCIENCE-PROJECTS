@@ -7,7 +7,7 @@ Hi there! Welcome to my Data Analysis repository. This is where I share my journ
 
 Handling and processing large datasets efficiently.
 
-Creating interactive dashboards and data visualizations in Power BI and Excel.
+Creating interactive dashboards and data visualizations in Power BI and Excel📊 📈 .
 
 Automating data workflows and applying machine learning techniques.
 
