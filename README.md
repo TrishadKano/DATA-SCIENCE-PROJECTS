@@ -11,7 +11,7 @@ Creating interactive dashboards and data visualizations in Power BI and ExcelðŸ“
 
 Automating data workflows and applying machine learning techniques.
 
-Writing complex queries and managing databases in PostgreSQL.
+Writing complex queries and managing databases in PostgreSQL and MySQL.
 
 Conducting statistical analysis.
 
