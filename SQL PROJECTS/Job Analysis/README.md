@@ -5,7 +5,9 @@
 
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
-### Data Source : 
+
+### Dataset: https://drive.google.com/drive/folders/1dI4oTpNNo_aPeZQfxmRfX2rpFpqUNhhk?usp=sharing
+### CREATION OF THE DATABASE AND LOADING OF THE DATASET:
 
 ### The questions I wanted to answer through my SQL queries were:
 
