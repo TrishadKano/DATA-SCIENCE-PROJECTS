@@ -5,14 +5,14 @@ Hi there! Welcome to my Data Analysis repository. This is where I share my journ
 
 **Key skills showcased in this repository include:**
 
-Handling and processing large datasets efficiently.
+. Handling and processing large datasets efficiently.
 
-Creating interactive dashboards and data visualizations in Power BI and Excel📊 📈 .
+. Creating interactive dashboards and data visualizations in Power BI and Excel📊 📈 .
 
-Automating data workflows and applying machine learning techniques.
+. Automating data workflows and applying machine learning techniques.
 
-Writing complex queries and managing databases in PostgreSQL and MySQL.
+. Writing complex queries and managing databases in PostgreSQL and MySQL.
 
-Conducting statistical analysis.
+. Conducting statistical analysis.
 
-Building predictive models to drive data-driven decision-making.
+. Building predictive models to drive data-driven decision-making.
