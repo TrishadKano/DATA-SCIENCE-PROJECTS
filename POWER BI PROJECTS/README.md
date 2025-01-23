@@ -6,6 +6,7 @@ Welcome to my Power BI project repository! This repository showcases two Power B
 To analyze car sales performance across regions, identify trends, and assist stakeholders in making informed business decisions.
 
 ### Key Features:
+
 Sales Performance: Tracks total sales, revenue, and profit margins across different regions and time periods.
 
 Customer Insights: Displays key customer demographics and preferences.
@@ -73,11 +74,11 @@ To improve forecasting accuracy and enhance revenue growth.
 
 #### Key Features:
 
-Sales Performance Metrics: Visual representation of key performance indicators (KPIs) such as total revenue, units sold, and profit margins.
+**Sales Performance Metrics**: Visual representation of key performance indicators (KPIs) such as total revenue, units sold, and profit margins.
 
-Regional Breakdown: Interactive maps or charts showing sales performance by region, allowing easy comparison.
+**Regional Breakdown**: Interactive maps or charts showing sales performance by region, allowing easy comparison.
 
-Product Performance Analysis: Detailed insights into the best-selling and least-performing products.
+**Product Performance Analysis**: Detailed insights into the best-selling and least-performing products.
 
 Trend Analysis: Time-series charts showcasing monthly, quarterly, and annual sales trends.
 
