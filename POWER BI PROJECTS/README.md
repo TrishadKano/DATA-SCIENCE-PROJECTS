@@ -112,7 +112,7 @@ Google Sheets: For collaborative data input and sharing.
 
 # Snapshot of the Dashboard:
 
-
+![Image](https://github.com/user-attachments/assets/ae4f3ff7-ec58-4f66-9850-ee6086e33449)
 
 ## How to Access the Dashboards ##
 
