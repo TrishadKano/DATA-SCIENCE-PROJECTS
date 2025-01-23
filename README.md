@@ -1,5 +1,5 @@
 
-## Data Analysis Repository📊 📈
+## Data Analysis📊 📈
 
 Hi there! 
 
