@@ -28,3 +28,32 @@ Titanic Dataset
 E_D_A.ipynb: Jupyter Notebook containing the code and analysis.
 
 
+
+
+Project 2: Simple Linear Regression on Housing Prices
+
+Description
+
+Used a housing prices dataset (Boston Housing dataset).
+
+Performed data preprocessing, including feature selection and normalization.
+
+Built a linear regression model to predict house prices based on features like the number of rooms, square footage, etc.
+
+Tools Used
+
+Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
+
+Jupyter Notebook
+
+Dataset
+
+Boston Housing Dataset
+
+Files
+
+Model_Building.ipynb: Jupyter Notebook containing the code and analysis.
+
+
+
+
