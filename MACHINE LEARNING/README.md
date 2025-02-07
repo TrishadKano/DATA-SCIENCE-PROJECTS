@@ -1,10 +1,10 @@
-## Data Science Internship Projects
+## Data Science Internship Projects 🚀
 ----------------------------------------------------------------------
-This repository contains the projects completed during my Data Science internship program. The projects focus on hands-on experience in data preprocessing, model development, and performance evaluation. Each project is designed to help me gain practical skills in key areas of Data Science.
+This repository contains the projects completed during my Data Science internship program. The projects focus on hands-on experience in data preprocessing, model development, and performance evaluation. Each project is designed to help me gain practical skills in key areas of Data Science 🤖.
 
 ## Project List
 
-## Project 1: Exploratory Data Analysis (EDA) on a Public Dataset
+## Project 1: Exploratory Data Analysis (EDA) on a Public Dataset📊
 
 **Description**
 
@@ -80,7 +80,7 @@ Machine Learning (Classification Algorithms)
 Data Visualization
 
 
-## Project 4: Breast Cancer Detection
+## Project 4: Breast Cancer Detection🤖
 
 
 
