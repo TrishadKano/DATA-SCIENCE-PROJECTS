@@ -1,9 +1,9 @@
 
 ## Welcome to My Repository! 🚀
 
-This space is a showcase of my technical expertise and practical experience in  Data Analysis 📊, and AI/Machine Learning. Each project reflects my ability to solve real-world challenges, explore cutting-edge technologies, and deliver innovative solutions. 
+This space is a showcase of my technical expertise and practical experience in  **Data Analysis 📊, and AI/Machine Learning**. Each project reflects my ability to solve real-world challenges, explore cutting-edge technologies, and deliver innovative solutions. 
 
-In this repository, you’ll find examples of **data cleaning, exploratory data analysis (EDA), statistical modeling, data visualization, and predictive analytics**. I’ve utilized tools like **Python, Power BI,SQL, MySQL,MSQL Server, Postgres and Excel** to analyze and present data effectively. 
+In this repository, you’ll find examples of **data cleaning, exploratory data analysis (EDA), statistical modeling, data visualization, and predictive analytics**. I’ve utilized tools like **Python, Power BI,SQL, MySQL,M SQL Server, SSMS Postgres and Excel** to analyze and present data effectively. 
 
 These projects demonstrate a variety of skills, including handling large datasets, querying data with SQL, automating workflow, and creating insightful dashboards and reports. Whether it’s uncovering trends, building interactive visualizations, or solving complex problems, this repository highlights my ability to turn raw data into actionable insights.
 
