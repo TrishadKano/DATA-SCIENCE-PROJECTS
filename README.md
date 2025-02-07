@@ -19,3 +19,5 @@ Welcome to my Data Analysis repository. This is where I share my journey in data
 . Conducting statistical analysis.
 
 . Building predictive models to drive data-driven decision-making.
+
+**I am always eager to collaborate, learn, and contribute to impactful projects. If you find my work interesting or would like to connect, feel free to reach out! 🚀**
