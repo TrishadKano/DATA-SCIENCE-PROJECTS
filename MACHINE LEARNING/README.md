@@ -56,7 +56,7 @@ Boston Housing Dataset
 Model_Building.ipynb: Jupyter Notebook containing the code and analysis.
 
 
-**Project 3: Loan Eligibility Prediction**
+## Project 3: Loan Eligibility Prediction
 
 **Overview**
 This project aims to predict loan eligibility based on applicant data. Using Python and machine learning algorithms, the model classifies whether a loan application is Approved or Not Approved.
