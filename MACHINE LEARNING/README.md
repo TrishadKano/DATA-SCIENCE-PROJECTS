@@ -55,27 +55,39 @@ Files
 Model_Building.ipynb: Jupyter Notebook containing the code and analysis.
 
 
-Project 2: Simple Linear Regression on Housing Prices
+**Project 3: Loan Eligibility Prediction**
 
-Description
+**Overview**
+This project aims to predict loan eligibility based on applicant data. Using Python and machine learning algorithms, the model classifies whether a loan application is Approved or Not Approved.
 
-Used a housing prices dataset (Boston Housing dataset).
+**Key Features:**
 
-Performed data preprocessing, including feature selection and normalization.
+Data exploration and preprocessing
 
-Built a linear regression model to predict house prices based on features like the number of rooms, square footage, etc.
+Implementation of machine learning models
 
-Tools Used
+Evaluation of model performance
 
-Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
+Use of Python libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib
 
-Jupyter Notebook
+**Technologies Used:**
+
+Python
+
+Machine Learning (Classification Algorithms)
+
+Data Visualization
+
+
+**Project 4: Breast Cancer Detection**
 
 
 # Breast Cancer Detection
 Breast Cancer Detection Using Machine Learning
 
 ![68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a674e6346454c3163704770444334766f317a554157412e706e67](https://github.com/user-attachments/assets/1aa44518-75fe-4e13-85e9-bda7c29958f8)
+
+
 # What is Breast Cancer?
 
 Cancer occurs when changes called mutations take place in genes that regulate cell growth. The mutations let the cells divide and multiply in an uncontrolled, chaotic way. The cells keep on proliferating, producing copies that get progressively more abnormal. In most cases, the cell copies eventually end up forming a tumor.
