@@ -3,7 +3,8 @@
 This repository contains the projects completed during my Data Science internship program. The projects focus on hands-on experience in data preprocessing, model development, and performance evaluation. Each project is designed to help me gain practical skills in key areas of Data Science.
 
 ## Project List
-**Project 1: Exploratory Data Analysis (EDA) on a Public Dataset**
+
+## Project 1: Exploratory Data Analysis (EDA) on a Public Dataset
 
 **Description**
 
@@ -30,9 +31,9 @@ E_D_A.ipynb: Jupyter Notebook containing the code and analysis.
 
 
 
-Project 2: Simple Linear Regression on Housing Prices
+## Project 2: Simple Linear Regression on Housing Prices
 
-Description
+**Description**
 
 Used a housing prices dataset (Boston Housing dataset).
 
@@ -40,17 +41,17 @@ Performed data preprocessing, including feature selection and normalization.
 
 Built a linear regression model to predict house prices based on features like the number of rooms, square footage, etc.
 
-Tools Used
+**Tools Used**
 
 Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
 
 Jupyter Notebook
 
-Dataset
+**Dataset**
 
 Boston Housing Dataset
 
-Files
+**Files**
 
 Model_Building.ipynb: Jupyter Notebook containing the code and analysis.
 
@@ -79,10 +80,10 @@ Machine Learning (Classification Algorithms)
 Data Visualization
 
 
-**Project 4: Breast Cancer Detection**
+## Project 4: Breast Cancer Detection
 
 
-# Breast Cancer Detection
+
 Breast Cancer Detection Using Machine Learning
 
 ![68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a674e6346454c3163704770444334766f317a554157412e706e67](https://github.com/user-attachments/assets/1aa44518-75fe-4e13-85e9-bda7c29958f8)
