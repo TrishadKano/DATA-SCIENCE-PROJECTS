@@ -129,13 +129,7 @@ Fork the Repository and clone it in ur PC
 To conclude i would like to say that Machine Learning has inspired me for doing great things by learning about great things, this project is one of my starters project in this domain. Doing this project was a pleasure for me and finding out about Death rate due to Breast Cancer really painful.
 
 
-Dataset
 
-Boston Housing Dataset
-
-Files
-
-Model_Building.ipynb: Jupyter Notebook containing the code and analysis.
 
 
 
