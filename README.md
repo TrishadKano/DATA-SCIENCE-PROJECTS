@@ -1,7 +1,7 @@
 
 ## Welcome to My Repository! 🚀
 
-This repository is a showcase of my technical expertise and hands-on experience in Data Science, Data Analysis, SQL, and Power BI. Each project here reflects my ability to solve real-world challenges, explore emerging technologies, and deliver practical, data-driven solutions.
+This repository is a showcase of my technical expertise and hands-on experience in Data Science, Data Analysis, SQL, and Microsoft  Power BI. Each project here reflects my ability to solve real-world challenges, explore emerging technologies, and deliver practical, data-driven solutions.
 
 ## 🔍 What You’ll Find Here
 **Inside this space, you'll discover projects focused on:**
@@ -17,7 +17,7 @@ Data Visualization
 Predictive Analytics and Machine Learning
 
 ## 🛠 Tools and Technologies Used
-**I've utilized a variety of tools and platforms to analyze and present data effectively:**
+**I've utilized a variety of tools and platforms to analyse and present data effectively:**
 
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
@@ -27,13 +27,13 @@ Power BI and Excel for dashboarding and visualization
 
 Jupyter Notebooks for interactive analysis
 
-## 📌 Key Skills Highlighted
+## 📌 Key Skills Highlighted:
 
-Processing and analyzing large datasets efficiently
+Processing and analysing large datasets efficiently
 
 Writing complex SQL queries and managing relational databases
 
-Creating interactive dashboards and visualizations in Power BI and Excel 📊
+Creating interactive dashboards and visualisations in Power BI and Excel 📊
 
 Applying machine learning techniques for prediction and classification
 
