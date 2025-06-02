@@ -140,6 +140,28 @@ Fork the Repository and clone it in ur PC
 To conclude i would like to say that Machine Learning has inspired me for doing great things by learning about great things, this project is one of my starters project in this domain. Doing this project was a pleasure for me and finding out about Death rate due to Breast Cancer really painful.
 
 
+## Project 3: Credit_Fraud_Detection
+
+
+**Description**
+
+
+In this project, I built a credit card fraud detection system using Logistic Regression to classify transactions as fraudulent or legitimate based on transaction data patterns. The objective was to detect anomalies in financial transactions and reduce false positives through proper model evaluation and preprocessing steps.
+
+**Aim:**
+
+
+To develop a machine learning model using Logistic Regression that accurately classifies credit card transactions as either fraudulent or legitimate, enhancing fraud detection capability and minimizing financial losses.
+
+**Tools Used**
+
+
+Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+
+Jupyter Notebook
+
+
+
 
 
 
