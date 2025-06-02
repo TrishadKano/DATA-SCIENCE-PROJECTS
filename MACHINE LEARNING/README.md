@@ -14,6 +14,9 @@ Cleaned the data, handled missing values, and conducted basic statistical analys
 
 Visualized data distributions, correlations, and key patterns using charts and graphs.
 
+**Aim:**
+To explore, clean, and visualise the Titanic dataset to uncover patterns, correlations, and insights that inform survival outcomes.
+
 **Tools Used**
 
 Python (Pandas, Matplotlib, Seaborn)
@@ -41,6 +44,9 @@ Performed data preprocessing, including feature selection and normalization.
 
 Built a linear regression model to predict house prices based on features like the number of rooms, square footage, etc.
 
+**Aim:**
+To build a predictive model using simple linear regression for estimating housing prices based on key numerical features in the Boston Housing dataset.
+
 **Tools Used**
 
 Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
@@ -60,6 +66,9 @@ Model_Building.ipynb: Jupyter Notebook containing the code and analysis.
 
 **Overview**
 This project aims to predict loan eligibility based on applicant data. Using Python and machine learning algorithms, the model classifies whether a loan application is Approved or Not Approved.
+
+**Aim:**
+To develop a classification model that accurately predicts loan eligibility based on applicant information, improving decision-making in loan approval processes.
 
 **Key Features:**
 
@@ -111,11 +120,7 @@ Now while its difficult to figure out for physicians  by seeing only images of x
 The Projects Features Detection of Breast Cancer Using Machine Learning.
 It has been tested that while there exists several machine learning models,Support Vector Machine or SVM in short is reported to have highest accuracy of (approximately 97%) in detecting breast cancer.
 
-The dataset used in this project is from Breast Cancer Wisconsin (Diagnostic) Data Set, however it can be directly accessed from Scikit learn library's collection of datasets as... 
-
-sklearn.datasets.load_breast_cancer
-
-...aslo csv file of data has been externally loaded in the repo :)
+The dataset used in this project is from Breast Cancer Wisconsin (Diagnostic) Data Set, however it can be directly accessed from Scikit learn library's.
 
 # RESULTS 
 An accuracy of 96% was achieved by using SVM model and after normalization technique after optimisation of C and Gamma parameters it was increased to a value of a 97%.
