@@ -12,12 +12,12 @@ Exploratory Data Analysis (EDA)
 
 Statistical Modeling
 
-Data Visualization
+Data Visualisation
 
 Predictive Analytics and Machine Learning
 
 ## 🛠 Tools and Technologies Used
-**I've utilized a variety of tools and platforms to analyse and present data effectively:**
+**I've utilised a variety of tools and platforms to analyse and present data effectively:**
 
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
@@ -39,6 +39,8 @@ Applying machine learning techniques for prediction and classification
 
 Automating data workflows and performing statistical analysis
 
+
 **🚀 I'm passionate about turning raw data into meaningful insights that support strategic decision-making. Whether it's uncovering patterns, forecasting trends, or building end-to-end analytical pipelines, this repository reflects my commitment to data excellence.**
+
 
 **🤝 I’m always open to collaborations, learning opportunities, and contributing to impactful projects**
