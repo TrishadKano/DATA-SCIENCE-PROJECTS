@@ -166,8 +166,52 @@ Jupyter Notebook
 
 
 
+## Project 6: Disease Prediction System Using SVM 🩺
 
 
+**Description**
+
+
+In this project, I developed a machine learning-based disease prediction system using the Support Vector Machine (SVM) algorithm. SVM was chosen for its effectiveness in handling high-dimensional data and binary classification problems. The system processes healthcare datasets containing features such as blood pressure, glucose levels, BMI, age, and more.
+
+
+**Aim:**
+
+
+To build and deploy a disease prediction system using SVM that provides accurate, real-time medical predictions based on patient data inputs, supporting early diagnosis and intervention.
+
+**Tools Used**
+
+
+Python (Pandas, NumPy, Scikit-learn, Streamlit)
+
+Jupyter Notebook
+
+Streamlit (for model deployment and user interface)
+
+
+
+
+## Project 7: Customer Segmentation Using K-Means and PCA
+
+
+
+**Description**
+
+
+In this project, I performed customer segmentation using K-Means clustering and Principal Component Analysis (PCA) to identify distinct customer groups based on purchasing behavior. The goal was to enable data-driven marketing strategies by understanding customer profiles and preferences.
+
+
+**Aim:**
+
+
+To apply unsupervised learning techniques for segmenting customers into meaningful groups based on behavioral data, supporting personalized marketing and customer retention strategies.
+
+**Tools Used**
+
+Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+
+Jupyter Notebook
 
 
 
