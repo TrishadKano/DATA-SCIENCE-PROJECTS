@@ -12,7 +12,7 @@ Performed Exploratory Data Analysis (EDA) on a publicly available dataset Titani
 
 Cleaned the data, handled missing values, and conducted basic statistical analysis.
 
-Visualized data distributions, correlations, and key patterns using charts and graphs.
+Visualised data distributions, correlations, and key patterns using charts and graphs.
 
 **Aim:**
 
@@ -42,7 +42,7 @@ E_D_A.ipynb: Jupyter Notebook containing the code and analysis.
 
 Used a housing prices dataset (Boston Housing dataset).
 
-Performed data preprocessing, including feature selection and normalization.
+Performed data preprocessing, including feature selection and normalisation.
 
 Built a linear regression model to predict house prices based on features like the number of rooms, square footage, etc.
 
@@ -92,11 +92,10 @@ Python
 
 Machine Learning (Classification Algorithms)
 
-Data Visualization
+Data Visualisation
 
 
 ## Project 4: Breast Cancer Detection🤖
-
 
 
 Breast Cancer Detection Using Machine Learning
