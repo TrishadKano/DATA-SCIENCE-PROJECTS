@@ -1,6 +1,6 @@
 ## Projects 🚀
 ----------------------------------------------------------------------
-This repository contains the projects completed during my Data Science internship program. The projects focus on hands-on experience in data preprocessing, model development, and performance evaluation. Each project is designed to help me gain practical skills in key areas of Data Science 🤖.
+ The projects focus on hands-on experience in data preprocessing, model development, and performance evaluation. Each project is designed to help me gain practical skills in key areas of Data Science 🤖.
 
 ## Project List
 
