@@ -23,7 +23,7 @@ Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
 SQL (MySQL, PostgreSQL, Microsoft SQL Server, SSMS)
 
-Microsoft Power BI and Excel for dashboarding and visualization
+Microsoft Power BI and Excel for dashboarding and visualisation
 
 Jupyter Notebooks for interactive analysis
 
