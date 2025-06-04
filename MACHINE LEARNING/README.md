@@ -81,7 +81,7 @@
 
 
 
-## Project 4: Credit_Fraud_Detection
+## Project 4: Credit_Fraud_Detection using Logistic Regression
 
 
 **Description:**
