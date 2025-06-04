@@ -6,7 +6,7 @@
 
 ## Project 1: Exploratory Data Analysis (EDA) on a Public Dataset📊
 
-**Description:**
+### Description:
 
 - Performed Exploratory Data Analysis (EDA) on a publicly available dataset Titanic dataset from Kaggle).
 
@@ -14,12 +14,12 @@
 
 - Visualised data distributions, correlations, and key patterns using charts and graphs.
 
-**Aim:**
+### Aim:
 
 
 - To explore, clean, and visualise the Titanic dataset to uncover patterns, correlations, and insights that inform survival outcomes.
 
-**Tools Used;**
+### Tools Used:
 
 - Python (Pandas, Matplotlib, Seaborn)
 
@@ -29,7 +29,7 @@
 
 ## Project 2: Simple Linear Regression on Housing Prices
 
-**Description:**
+### Description:
 
 - Used a housing prices dataset (Boston Housing dataset).
 
@@ -37,12 +37,12 @@
 
 - Built a linear regression model to predict house prices based on features like the number of rooms, square footage, etc.
 
-**Aim:**
+### Aim:
 
 
 - To build a predictive model using simple linear regression for estimating housing prices based on key numerical features in the Boston Housing dataset.
 
-**Tools Used:**
+### Tools Used:
 
 - Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
 
@@ -52,16 +52,16 @@
 
 ## Project 3: Loan Eligibility Prediction using Logistic Regression, RandomForest anf DecisionTree classifier
 
-**Overview:**
+### Overview:
 
 - This project aims to predict loan eligibility based on applicant data. Using Python and machine learning algorithms, the model classifies whether a loan application is Approved or Not Approved.
 
-**Aim:**
+### Aim:
 
 
 - To develop a classification model that accurately predicts loan eligibility based on applicant information, improving decision-making in loan approval processes.
 
-**Key Features:**
+### Key Features:
 
 - Data exploration and preprocessing
 
@@ -71,7 +71,7 @@
 
 - Use of Python libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib
 
-**Technologies Used:**
+### Technologies Used:
 
 - Python
 
@@ -84,17 +84,17 @@
 ## Project 4: Credit_Fraud_Detection using Logistic Regression
 
 
-**Description:**
+### Description:
 
 
 In this project, I built a credit card fraud detection system using Logistic Regression to classify transactions as fraudulent or legitimate based on transaction data patterns. The objective was to detect anomalies in financial transactions and reduce false positives through proper model evaluation and preprocessing steps.
 
-**Aim:**
+### Aim:
 
 
 - To develop a machine learning model using Logistic Regression that accurately classifies credit card transactions as either fraudulent or legitimate, enhancing fraud detection capability and minimizing financial losses.
 
-**Tools Used:**
+### Tools Used:
 
 
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
@@ -106,18 +106,18 @@ In this project, I built a credit card fraud detection system using Logistic Reg
 ## Project 5: Disease Prediction System Using SVM 🩺
 
 
-**Description**
+### Description
 
 
 - In this project, I developed a machine learning-based disease prediction system using the Support Vector Machine (SVM) algorithm. SVM was chosen for its effectiveness in handling high-dimensional data and binary classification problems. The system processes healthcare datasets containing features such as blood pressure, glucose levels, BMI, age, and more.
 
 
-**Aim:**
+### Aim:
 
 
 - To build and deploy a disease prediction system using SVM that provides accurate, real-time medical predictions based on patient data inputs, supporting early diagnosis and intervention.
 
-**Tools Used:**
+### Tools Used:
 
 
 - Python (Pandas, NumPy, Scikit-learn, Streamlit)
@@ -133,18 +133,18 @@ In this project, I built a credit card fraud detection system using Logistic Reg
 
 
 
-**Description**
+### Description
 
 
 - In this project, I performed customer segmentation using K-Means clustering and Principal Component Analysis (PCA) to identify distinct customer groups based on purchasing behavior. The goal was to enable data-driven marketing strategies by understanding customer profiles and preferences.
 
 
-**Aim:**
+### Aim:
 
 
 - To apply unsupervised learning techniques for segmenting customers into meaningful groups based on behavioral data, supporting personalized marketing and customer retention strategies.
 
-**Tools Used:**
+### Tools Used:
 
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
