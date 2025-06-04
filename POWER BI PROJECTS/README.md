@@ -1,23 +1,24 @@
 # Power BI Projects
-Welcome to my Power BI project repository! This repository showcases two Power BI dashboards: Car Sales Dashboard and HR Dashboard. These projects highlight my ability to visualize and analyze data effectively, providing actionable insights for decision-making.
+- Welcome to my Power BI project repository! This repository showcases two Power BI dashboards: Car Sales Dashboard and HR Dashboard. These projects highlight my ability to visualize and analyze data effectively, providing actionable insights for decision-making.
+  
 ## 1. Car Sales Dashboard
 
 ### Objective:
-To analyze car sales performance across regions, identify trends, and assist stakeholders in making informed business decisions.
+- To analyze car sales performance across regions, identify trends, and assist stakeholders in making informed business decisions.
 
 ### Key Features:
 
-Sales Performance: Tracks total sales, revenue, and profit margins across different regions and time periods.
+- Sales Performance: Tracks total sales, revenue, and profit margins across different regions and time periods.
 
-Customer Insights: Displays key customer demographics and preferences.
+- Customer Insights: Displays key customer demographics and preferences.
 
-Trends & Patterns: Highlights sales trends by car type, model, and dealer performance.
+- Trends & Patterns: Highlights sales trends by car type, model, and dealer performance.
 
-Interactive Filters: Enables dynamic filtering by region, car model, and time period.
+- Interactive Filters: Enables dynamic filtering by region, car model, and time period.
 
 ### Tools Used:
 
-Power BI Features: Slicers, custom visuals, and drill-through pages.
+- Power BI Features: Slicers, custom visuals, and drill-through pages.
 
 ### Data Sources
 
@@ -31,21 +32,21 @@ Power BI Features: Slicers, custom visuals, and drill-through pages.
 
 ### Objective:
 
-To provide a comprehensive view of workforce metrics, helping HR managers monitor employee performance, retention, and diversity.
+- To provide a comprehensive view of workforce metrics, helping HR managers monitor employee performance, retention, and diversity.
 
 #### Key Features:
 
-Employee Overview: Displays headcount, gender diversity, and department distribution.
+- Employee Overview: Displays headcount, gender diversity, and department distribution.
 
-Performance Metrics: Tracks KPIs such as employee turnover, average tenure, and satisfaction scores.
+- Performance Metrics: Tracks KPIs such as employee turnover, average tenure, and satisfaction scores.
 
-Recruitment Analysis: Highlights hiring trends and vacancy statistics.
+- Recruitment Analysis: Highlights hiring trends and vacancy statistics.
 
-Interactive Features: Allows filtering by department, job role, and time period.
+- Interactive Features: Allows filtering by department, job role, and time period.
 
 ### Tools Used:
 
-Power BI Features: DAX calculations, data modeling, and interactive visualizations.
+- Power BI Features: DAX calculations, data modeling, and interactive visualizations.
 
 ### Data Sources
 
@@ -62,15 +63,15 @@ Power BI Features: DAX calculations, data modeling, and interactive visualizatio
 
 ### Objectives:
 
-To monitor and analyze sales performance across different regions, products, and time periods.
+- To monitor and analyze sales performance across different regions, products, and time periods.
 
-To identify sales trends, growth opportunities, and underperforming areas.
+- To identify sales trends, growth opportunities, and underperforming areas.
 
-To optimize decision-making by providing actionable insights for sales strategies.
+- To optimize decision-making by providing actionable insights for sales strategies.
 
-To enable real-time tracking of sales metrics to support data-driven business decisions.
+- To enable real-time tracking of sales metrics to support data-driven business decisions.
 
-To improve forecasting accuracy and enhance revenue growth.
+- To improve forecasting accuracy and enhance revenue growth.
 
 #### Key Features:
 
@@ -80,31 +81,31 @@ To improve forecasting accuracy and enhance revenue growth.
 
 **Product Performance Analysis**: Detailed insights into the best-selling and least-performing products.
 
-Trend Analysis: Time-series charts showcasing monthly, quarterly, and annual sales trends.
+- Trend Analysis: Time-series charts showcasing monthly, quarterly, and annual sales trends.
 
-Sales Target Tracking: Comparison of actual sales versus targets to measure progress.
+- Sales Target Tracking: Comparison of actual sales versus targets to measure progress.
 
-Customer Insights: Key metrics related to customer segments, purchase patterns, and retention rates.
+- Customer Insights: Key metrics related to customer segments, purchase patterns, and retention rates.
 
-Real-time Data Updates: Integration with data sources for live updates, ensuring decisions are based on current information.
+- Real-time Data Updates: Integration with data sources for live updates, ensuring decisions are based on current information.
 
-Filters and Drill-down Features: Ability to filter data by date, region, product, or salesperson for deeper analysis.
+- Filters and Drill-down Features: Ability to filter data by date, region, product, or salesperson for deeper analysis.
 
-Forecasting Tools: Predictive analytics to estimate future sales based on historical data.
+- Forecasting Tools: Predictive analytics to estimate future sales based on historical data.
 
-Export Options: Downloadable reports in multiple formats for presentations and further analysis.
+- Export Options: Downloadable reports in multiple formats for presentations and further analysis.
 
 ### Tools Used:
 
-Microsoft Excel: For initial data cleaning and analysis.
+- Microsoft Excel: For initial data cleaning and analysis.
 
-Power BI: For creating interactive and visually appealing dashboards.
+- Power BI: For creating interactive and visually appealing dashboards.
 
-Python: For advanced data manipulation and integration with data sources.
+- Python: For advanced data manipulation and integration with data sources.
 
-SQL: To extract, transform, and load data from relational databases.
+- SQL: To extract, transform, and load data from relational databases.
 
-Google Sheets: For collaborative data input and sharing.
+- Google Sheets: For collaborative data input and sharing.
 
 ### Data Sources
 
@@ -116,17 +117,17 @@ Google Sheets: For collaborative data input and sharing.
 
 ## How to Access the Dashboards ##
 
-Download the .pbix files for each project from this repository.
+- Download the .pbix files for each project from this repository.
 
-Open the files in Power BI Desktop.
+- Open the files in Power BI Desktop.
 
 
 ## Skills Demonstrated ##
 
-Data cleaning and preparation.
+- Data cleaning and preparation.
 
-Advanced Power BI visualizations.
+- Advanced Power BI visualizations.
 
-DAX functions for calculated metrics.
+- DAX functions for calculated metrics.
 
-Storytelling through data visualizations.
+- Storytelling through data visualizations.
