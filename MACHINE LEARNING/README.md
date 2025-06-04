@@ -87,7 +87,7 @@
 ### Description:
 
 
-In this project, I built a credit card fraud detection system using Logistic Regression to classify transactions as fraudulent or legitimate based on transaction data patterns. The objective was to detect anomalies in financial transactions and reduce false positives through proper model evaluation and preprocessing steps.
+- In this project, I built a credit card fraud detection system using Logistic Regression to classify transactions as fraudulent or legitimate based on transaction data patterns. The objective was to detect anomalies in financial transactions and reduce false positives through proper model evaluation and preprocessing steps.
 
 ### Aim:
 
