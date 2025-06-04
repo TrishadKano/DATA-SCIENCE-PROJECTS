@@ -1,6 +1,6 @@
 ## Projects 🚀
 
- The projects focus on hands-on experience in data preprocessing, model development, and performance evaluation. Each project is designed to help me gain practical skills in key areas of Data Science 🤖.
+ - The projects focus on hands-on experience in data preprocessing, model development, and performance evaluation. Each project is designed to help me gain practical skills in key areas of Data Science 🤖.
 
 ## Project List
 
@@ -17,7 +17,7 @@
 **Aim:**
 
 
-To explore, clean, and visualise the Titanic dataset to uncover patterns, correlations, and insights that inform survival outcomes.
+- To explore, clean, and visualise the Titanic dataset to uncover patterns, correlations, and insights that inform survival outcomes.
 
 **Tools Used;**
 
