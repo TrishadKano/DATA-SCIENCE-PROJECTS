@@ -50,7 +50,7 @@
 
 
 
-## Project 3: Loan Eligibility Prediction
+## Project 3: Loan Eligibility Prediction using Logistic Regression, RandomForest anf DecisionTree classifier
 
 **Overview:**
 
