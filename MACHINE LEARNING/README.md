@@ -6,7 +6,7 @@
 
 ## Project 1: Exploratory Data Analysis (EDA) on a Public Dataset📊
 
-**Description**
+**Description:**
 
 Performed Exploratory Data Analysis (EDA) on a publicly available dataset Titanic dataset from Kaggle).
 
@@ -19,7 +19,7 @@ Visualised data distributions, correlations, and key patterns using charts and g
 
 To explore, clean, and visualise the Titanic dataset to uncover patterns, correlations, and insights that inform survival outcomes.
 
-**Tools Used**
+**Tools Used;**
 
 Python (Pandas, Matplotlib, Seaborn)
 
@@ -38,7 +38,7 @@ E_D_A.ipynb: Jupyter Notebook containing the code and analysis.
 
 ## Project 2: Simple Linear Regression on Housing Prices
 
-**Description**
+**Description:**
 
 Used a housing prices dataset (Boston Housing dataset).
 
@@ -51,7 +51,7 @@ Built a linear regression model to predict house prices based on features like t
 
 To build a predictive model using simple linear regression for estimating housing prices based on key numerical features in the Boston Housing dataset.
 
-**Tools Used**
+**Tools Used:**
 
 Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
 
@@ -68,7 +68,7 @@ Model_Building.ipynb: Jupyter Notebook containing the code and analysis.
 
 ## Project 3: Loan Eligibility Prediction
 
-**Overview**
+**Overview:**
 This project aims to predict loan eligibility based on applicant data. Using Python and machine learning algorithms, the model classifies whether a loan application is Approved or Not Approved.
 
 **Aim:**
@@ -99,7 +99,7 @@ Data Visualisation
 ## Project 4: Credit_Fraud_Detection
 
 
-**Description**
+**Description:**
 
 
 In this project, I built a credit card fraud detection system using Logistic Regression to classify transactions as fraudulent or legitimate based on transaction data patterns. The objective was to detect anomalies in financial transactions and reduce false positives through proper model evaluation and preprocessing steps.
@@ -109,7 +109,7 @@ In this project, I built a credit card fraud detection system using Logistic Reg
 
 To develop a machine learning model using Logistic Regression that accurately classifies credit card transactions as either fraudulent or legitimate, enhancing fraud detection capability and minimizing financial losses.
 
-**Tools Used**
+**Tools Used:**
 
 
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
@@ -132,7 +132,7 @@ In this project, I developed a machine learning-based disease prediction system 
 
 To build and deploy a disease prediction system using SVM that provides accurate, real-time medical predictions based on patient data inputs, supporting early diagnosis and intervention.
 
-**Tools Used**
+**Tools Used:**
 
 
 Python (Pandas, NumPy, Scikit-learn, Streamlit)
@@ -159,7 +159,7 @@ In this project, I performed customer segmentation using K-Means clustering and 
 
 To apply unsupervised learning techniques for segmenting customers into meaningful groups based on behavioral data, supporting personalized marketing and customer retention strategies.
 
-**Tools Used**
+**Tools Used:**
 
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
