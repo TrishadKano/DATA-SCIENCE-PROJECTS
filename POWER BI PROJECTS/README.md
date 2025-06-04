@@ -73,7 +73,7 @@
 
 - To improve forecasting accuracy and enhance revenue growth.
 
-#### Key Features:
+### Key Features:
 
 - Sales Performance Metrics: Visual representation of key performance indicators (KPIs) such as total revenue, units sold, and profit margins.
 
