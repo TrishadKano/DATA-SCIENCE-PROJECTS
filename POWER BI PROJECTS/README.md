@@ -75,11 +75,11 @@
 
 #### Key Features:
 
-**Sales Performance Metrics**: Visual representation of key performance indicators (KPIs) such as total revenue, units sold, and profit margins.
+- Sales Performance Metrics: Visual representation of key performance indicators (KPIs) such as total revenue, units sold, and profit margins.
 
-**Regional Breakdown**: Interactive maps or charts showing sales performance by region, allowing easy comparison.
+- Regional Breakdown: Interactive maps or charts showing sales performance by region, allowing easy comparison.
 
-**Product Performance Analysis**: Detailed insights into the best-selling and least-performing products.
+- Product Performance Analysis: Detailed insights into the best-selling and least-performing products.
 
 - Trend Analysis: Time-series charts showcasing monthly, quarterly, and annual sales trends.
 
