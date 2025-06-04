@@ -34,7 +34,7 @@
 
 - To provide a comprehensive view of workforce metrics, helping HR managers monitor employee performance, retention, and diversity.
 
-#### Key Features:
+### Key Features:
 
 - Employee Overview: Displays headcount, gender diversity, and department distribution.
 
