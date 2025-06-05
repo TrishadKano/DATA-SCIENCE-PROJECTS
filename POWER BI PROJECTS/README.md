@@ -27,8 +27,6 @@
 # Snapshot of the Dashboard:
 
 
-![Image](https://github.com/user-attachments/assets/9ac77375-b0a7-4622-a745-1b754eed82a2)
-
 ![Image](https://github.com/user-attachments/assets/5a299341-ec34-4886-9eeb-4906c2ce8167)
 
 ## 2. HR Dashboard
