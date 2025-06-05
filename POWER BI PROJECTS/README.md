@@ -54,7 +54,6 @@
 
 # Snapshot of the Dashboard:
 
-![image](https://github.com/user-attachments/assets/d196227c-df0f-48cf-8fbb-013f9f5769d4)
 
 ![Image](https://github.com/user-attachments/assets/e85236ea-f5fc-4547-b5de-25062bdeaa52)
 
