@@ -28,6 +28,8 @@
 
 ![image](https://github.com/user-attachments/assets/2be00cd2-606d-4c95-9480-e8df69908daa)
 
+![Image](https://github.com/user-attachments/assets/9ac77375-b0a7-4622-a745-1b754eed82a2)
+
 ## 2. HR Dashboard
 
 ### Objective:
