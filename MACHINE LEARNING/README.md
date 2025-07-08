@@ -27,7 +27,7 @@
 
 
 
-## Project 2: Simple Linear Regression on Housing Prices
+## Project 2: Simple Linear Regression on Housing Prices (Model Building)
 
 ### Description:
 
