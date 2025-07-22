@@ -4,7 +4,7 @@
 
 ## Project List
 
-## Project 5: LLM Chatbot Using Google Gemini Pro 🤖✨
+## Project : LLM Chatbot Using Google Gemini Pro 🤖✨
 
 ## Description
 
