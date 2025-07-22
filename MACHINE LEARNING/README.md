@@ -6,7 +6,7 @@
 
 ## Project : LLM Chatbot Using Google Gemini Pro 🤖✨
 
-## Description
+## Description:
 - In this project, I developed a chatbot system integrated with Google's Gemini Pro LLM (Large Language Model) API. The chatbot leverages Gemini Pro's advanced natural language understanding and generation capabilities to engage in intelligent, human-like conversations. It is deployed using Streamlit, enabling an interactive and responsive web-based user interface for seamless real-time communication.
 
 ### Aim:
