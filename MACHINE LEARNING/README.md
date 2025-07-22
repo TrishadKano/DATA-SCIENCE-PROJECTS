@@ -4,7 +4,25 @@
 
 ## Project List
 
-## Project 1: Exploratory Data Analysis (EDA) on a Public Dataset📊
+## Project 5: LLM Chatbot Using Google Gemini Pro 🤖✨
+
+## Description
+
+- In this project, I developed a chatbot system integrated with Google's Gemini Pro LLM (Large Language Model) API. The chatbot leverages Gemini Pro's advanced natural language understanding and generation capabilities to engage in intelligent, human-like conversations. It is deployed using Streamlit, enabling an interactive and responsive web-based user interface for seamless real-time communication.
+
+### Aim:
+
+- To build and deploy an LLM-based chatbot using Google Gemini Pro that provides dynamic, context-aware conversational responses to user inputs for tasks such as general Q&A, summarisation, and assistance, enhancing productivity and user experience.
+
+### Tools Used:
+
+- Python (Requests, Streamlit)
+
+- Google Gemini Pro API
+
+- Streamlit (for user interface and deployment)
+
+## Project : Exploratory Data Analysis (EDA) on a Public Dataset📊
 
 ### Description:
 
@@ -27,7 +45,7 @@
 
 
 
-## Project 2: Simple Linear Regression on Housing Prices (Model Building)
+## Project : Simple Linear Regression on Housing Prices (Model Building)
 
 ### Description:
 
@@ -50,7 +68,7 @@
 
 
 
-## Project 3: Loan Eligibility Prediction using Logistic Regression, RandomForest anf DecisionTree classifier
+## Project : Loan Eligibility Prediction using Logistic Regression, RandomForest anf DecisionTree classifier
 
 ### Overview:
 
@@ -81,7 +99,7 @@
 
 
 
-## Project 4: Credit_Fraud_Detection using Logistic Regression
+## Project : Credit_Fraud_Detection using Logistic Regression
 
 
 ### Description:
@@ -103,7 +121,7 @@
 
 
 
-## Project 5: Disease Prediction System Using SVM 🩺
+## Project : Disease Prediction System Using SVM 🩺
 
 
 ### Description
@@ -129,7 +147,7 @@
 
 
 
-## Project 6: Customer Segmentation Using K-Means and PCA
+## Project : Customer Segmentation Using K-Means and PCA
 
 
 
