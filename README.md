@@ -7,6 +7,7 @@
 
 **Inside this space, you'll discover projects focused on:**
 
+- Machine Learning
 - Data Cleaning and Preprocessing
 
 - Exploratory Data Analysis (EDA)
