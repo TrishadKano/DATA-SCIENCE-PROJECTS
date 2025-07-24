@@ -43,6 +43,27 @@
 - Jupyter Notebook
 
 
+## Project: Amazon Tesla Review Sentiment Analysis 🚗📊
+
+### Description:
+- In this project, I developed a sentiment analysis system to classify Amazon customer reviews for Tesla products into positive and negative sentiments. The project involves data scraping, preprocessing, and building a machine learning model to identify customer perceptions and feedback trends. This enables businesses and analysts to gain insights into customer satisfaction and areas requiring improvement.
+
+### Aim:
+
+- To build and deploy a sentiment analysis model that accurately classifies Amazon Tesla product reviews, thereby assisting in understanding customer opinions, enhancing product development strategies, and supporting data-driven business decisions.
+
+### Tools Used:
+- Python (pandas, numpy, scikit-learn, requests)
+
+- scikit-learn (for model building, training, and evaluation)
+
+- pandas & numpy (for data manipulation and preprocessing)
+
+- Jupyter Notebook (for development and experimentation)
+  
+- Streamlit (for user interface and deployment)
+
+
 
 ## Project : Simple Linear Regression on Housing Prices (Model Building)
 
