@@ -1,6 +1,6 @@
-# Welcome to My Repository! 🚀
+# Welcome to My Microsoft Power BI Repository! 🚀
  
- - This repository showcases two Power BI dashboards: Car Sales Dashboard and HR Dashboard. These projects highlight my ability to visualize and analyze data effectively, providing actionable insights for decision-making.
+ - This repository showcases a collection of interactive and insightful Power BI reports and dashboards I have developed to transform raw data into actionable business intelligence. These projects highlight my ability to visualize and analyze data effectively, providing actionable insights for decision-making.
   
 ## 1. Car Sales Dashboard
 
