@@ -4,10 +4,10 @@
 
 ### Technologies & Tools:
 
-- SQL (MySQL, PostgreSQL, SQLite, or your specific dialect)
+- SQL (MySQL, PostgreSQL, SQLite)
 
-- SQL Server Management Studio (SSMS) / pgAdmin / DBeaver (depending on your environment)
+- SQL Server Management Studio (SSMS) & pgAdmin
 
-- Data modeling and normalization techniques
+- Data modeling
 
 - Query optimization and indexing basic
