@@ -28,7 +28,6 @@ The dataset includes the following columns:
 - `price_per_unit`: Price of a single unit of the product
 - `cogs`: Cost of goods sold for the transaction
 
-> Note: You can include a sample schema diagram or ERD if available.
 
 ## ✅ Key SQL Tasks Performed
 
@@ -222,7 +221,7 @@ GROUP BY shift
 ```
 
 ## Findings
-- Customer Demographics: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
-- High-Value Transactions: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
+- **Customer Demographics: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.**
+- **High-Value Transactions: Several transactions had a total sale amount greater than 1000, indicating premium purchases.**
 - Sales Trends: Monthly analysis shows variations in sales, helping identify peak seasons.
 - Customer Insights: The analysis identifies the top-spending customers and the most popular product categories.
