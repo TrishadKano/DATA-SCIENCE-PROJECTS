@@ -42,7 +42,5 @@ The dataset includes the following columns:
   - `SUM()`, `AVG()`, `COUNT()`, `GROUP BY`, etc.
 - **Filtering and Conditional Logic**
   - Filtering by date, category, sales volume
-- **Joins** (if applicable)
-  - Combining multiple tables (e.g., sales, products, customers)
-- **Window Functions** (optional)
+- **Window Functions**
   - Ranking products or customers by performance
