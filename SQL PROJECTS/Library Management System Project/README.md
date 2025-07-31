@@ -13,10 +13,10 @@
 
 ### Objectives
 
-**- Setting up the Library Management System Database:** Created and populated the database with tables for branches, employees, members, books, issued status, and return status.
-**- CRUD Operations:** Performed Create, Read, Update, and Delete operations on the data.
-**- CTAS (Create Table As Select):** Utilized CTAS to create new tables based on query results.
-**- Advanced SQL Queries:** Developed complex queries to analyze and retrieve specific data.
+- **Setting up the Library Management System Database:** Created and populated the database with tables for branches, employees, members, books, issued status, and return status.
+- **CRUD Operations:** Performed Create, Read, Update, and Delete operations on the data.
+- **CTAS (Create Table As Select):** Utilized CTAS to create new tables based on query results.
+- **Advanced SQL Queries:** Developed complex queries to analyze and retrieve specific data.
 
 ## Project Structure
 
