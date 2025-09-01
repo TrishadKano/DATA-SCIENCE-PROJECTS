@@ -114,7 +114,7 @@
 
 # Snapshot of the Dashboard:
 
-![Image](https://github.com/user-attachments/assets/ae4f3ff7-ec58-4f66-9850-ee6086e33449)
+<img width="1920" height="1065" alt="Image" src="https://github.com/user-attachments/assets/ddb53eef-ed9d-4a08-aa8e-c66eb22ac093" />
 
 ## How to Access the Dashboards ##
 
