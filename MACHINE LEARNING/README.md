@@ -149,20 +149,20 @@
 ### Description
 
 
-- In this project, I developed a machine learning-based disease prediction system using the Support Vector Machine (SVM) algorithm. SVM was chosen for its effectiveness in handling high-dimensional data and binary classification problems. The system processes healthcare datasets containing features such as blood pressure, glucose levels, BMI, age, and more.
+- In this project, I developed a machine learning-based system to predict whether a patient is diabetic or not, using the Support Vector Machine (SVM) algorithm. SVM was chosen for its effectiveness in handling high-dimensional data and binary classification problems. The system analyzes healthcare datasets containing features such as blood pressure, glucose levels, BMI, age, and other relevant patient information to provide accurate predictions.
 
 
 ### Aim:
 
 
-- To build and deploy a disease prediction system using SVM that provides accurate, real-time medical predictions based on patient data inputs, supporting early diagnosis and intervention.
+- To build and deploy a real-time diabetes prediction system that determines whether a patient is diabetic or not, supporting early diagnosis and timely medical intervention.
 
 ### Tools Used:
 
 
 - Python (Pandas, NumPy, Scikit-learn, Streamlit)
 
-- Jupyter Notebook
+- Jupyter Notebook for development and experimentation
 
 - Streamlit (for model deployment and user interface)
 
