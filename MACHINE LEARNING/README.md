@@ -63,13 +63,42 @@
 - Machine Learning (Decision Tree Classifier)
 
 - Data Visualization
+  
 
 
+## Project : Loan Eligibility Prediction using Logistic Regression, RandomForest anf DecisionTree classifier
+
+### Overview:
+
+- This project aims to predict loan eligibility based on applicant data. Using Python and machine learning algorithms, the model classifies whether a loan application is Approved or Not Approved.
+
+### Aim:
+
+
+- To develop a classification model that accurately predicts loan eligibility based on applicant information, improving decision-making in loan approval processes.
+
+### Key Features:
+
+- Data exploration and preprocessing
+
+- Implementation of machine learning models
+
+- Evaluation of model performance
+
+- Use of Python libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib
+
+### Technologies Used:
+
+- Python
+
+- Machine Learning (Classification Algorithms)
+
+- Data Visualisation
 
 
 ## Project : LLM Chatbot Using Google Gemini Pro 🤖✨
 
-## Description:
+### Description:
 - In this project, I developed a chatbot system integrated with Google's Gemini Pro LLM (Large Language Model) API. The chatbot leverages Gemini Pro's advanced natural language understanding and generation capabilities to engage in intelligent, human-like conversations. It is deployed using Streamlit, enabling an interactive and responsive web-based user interface for seamless real-time communication.
 
 ### Aim:
@@ -149,36 +178,6 @@
 
 - Jupyter Notebook
 
-
-
-## Project : Loan Eligibility Prediction using Logistic Regression, RandomForest anf DecisionTree classifier
-
-### Overview:
-
-- This project aims to predict loan eligibility based on applicant data. Using Python and machine learning algorithms, the model classifies whether a loan application is Approved or Not Approved.
-
-### Aim:
-
-
-- To develop a classification model that accurately predicts loan eligibility based on applicant information, improving decision-making in loan approval processes.
-
-### Key Features:
-
-- Data exploration and preprocessing
-
-- Implementation of machine learning models
-
-- Evaluation of model performance
-
-- Use of Python libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib
-
-### Technologies Used:
-
-- Python
-
-- Machine Learning (Classification Algorithms)
-
-- Data Visualisation
 
 
 
