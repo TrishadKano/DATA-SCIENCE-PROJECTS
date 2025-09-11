@@ -9,10 +9,10 @@
 
 ## Project: Credit Risk Assessment using Logistic Regression, Random Forest, and Decision Tree Classifier
 
-## Overview:
+### Overview:
 - This project predicts the credit risk of applicants by classifying them into Default or Not Default categories. Using Python and machine learning algorithms, the model helps financial institutions evaluate creditworthiness, reduce default risk, and make data-driven lending decisions.
 
-## Aim:
+### Aim:
 - To build an accurate classification model that distinguishes between applicants who are likely to default and those who are not, improving decision-making in credit risk assessment.
 
 ### Key Features:
