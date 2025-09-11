@@ -6,6 +6,44 @@
 
 ## Project List
 
+
+## Project: Credit Risk Assessment using Logistic Regression, Random Forest, and Decision Tree Classifier
+
+## Overview:
+- This project predicts the credit risk of applicants by classifying them into Default or Not Default categories. Using Python and machine learning algorithms, the model helps financial institutions evaluate creditworthiness, reduce default risk, and make data-driven lending decisions.
+
+## Aim:
+- To build an accurate classification model that distinguishes between applicants who are likely to default and those who are not, improving decision-making in credit risk assessment.
+
+### Key Features:
+
+- Data exploration, cleaning, and preprocessing
+
+- Implementation of multiple classification models (Logistic Regression, Random Forest, Decision Tree)
+
+- Model evaluation and comparison using Accuracy, Precision, Recall, F1-score, and ROC-AUC
+
+- Data visualization of trends and risk indicators related to defaults
+
+- Use of Python libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib
+
+### Technologies Used:
+
+- Python
+
+- Machine Learning (Classification Algorithms)
+
+- Data Visualization
+
+
+
+
+
+
+
+
+
+
 ## Project : LLM Chatbot Using Google Gemini Pro 🤖✨
 
 ## Description:
