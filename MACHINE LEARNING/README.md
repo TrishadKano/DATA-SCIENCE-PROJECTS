@@ -36,10 +36,33 @@
 - Data Visualization
 
 
+## Project: Credit Scoring using Decision Tree Classifier
 
+### Overview:
+- This project focuses on building a credit scoring model to evaluate the creditworthiness of applicants. Unlike credit risk assessment (which classifies applications as Default vs Not Default), credit scoring assigns a score that reflects the applicant’s likelihood of repayment. Using a Decision Tree Classifier, the model provides a transparent and interpretable approach to credit scoring, aiding financial institutions in making data-driven lending decisions.
 
+### Aim:
+- To develop a Decision Tree–based credit scoring model that predicts an applicant’s creditworthiness, helping lenders assess risk levels more effectively and improve loan approval processes.
 
+### Key Features:
 
+- Data exploration, cleaning, and preprocessing for scoring features
+
+- Implementation of a Decision Tree Classifier for credit scoring
+
+- Model evaluation using Accuracy, Precision, Recall, F1-score, and ROC-AUC
+
+- Visualization of decision rules and feature importance for interpretability
+
+- Use of Python libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib
+
+### Technologies Used:
+
+- Python
+
+- Machine Learning (Decision Tree Classifier)
+
+- Data Visualization
 
 
 
