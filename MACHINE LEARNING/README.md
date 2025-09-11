@@ -96,6 +96,50 @@
 - Data Visualisation
 
 
+## Project : Credit_Fraud_Detection using Logistic Regression
+
+
+### Description:
+
+
+- In this project, I built a credit card fraud detection system using Logistic Regression to classify transactions as fraudulent or legitimate based on transaction data patterns. The objective was to detect anomalies in financial transactions and reduce false positives through proper model evaluation and preprocessing steps.
+
+### Aim:
+
+
+- To develop a machine learning model using Logistic Regression that accurately classifies credit card transactions as either fraudulent or legitimate, enhancing fraud detection capability and minimizing financial losses.
+
+### Tools Used:
+
+
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+
+- Jupyter Notebook
+
+
+## Project : Customer Segmentation Using K-Means and PCA
+
+
+
+### Description
+
+
+- In this project, I performed customer segmentation using K-Means clustering and Principal Component Analysis (PCA) to identify distinct customer groups based on purchasing behavior. The goal was to enable data-driven marketing strategies by understanding customer profiles and preferences.
+
+
+### Aim:
+
+
+- To apply unsupervised learning techniques for segmenting customers into meaningful groups based on behavioral data, supporting personalized marketing and customer retention strategies.
+
+### Tools Used:
+
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+
+- Jupyter Notebook
+
+
+
 ## Project : LLM Chatbot Using Google Gemini Pro 🤖✨
 
 ### Description:
@@ -181,28 +225,6 @@
 
 
 
-## Project : Credit_Fraud_Detection using Logistic Regression
-
-
-### Description:
-
-
-- In this project, I built a credit card fraud detection system using Logistic Regression to classify transactions as fraudulent or legitimate based on transaction data patterns. The objective was to detect anomalies in financial transactions and reduce false positives through proper model evaluation and preprocessing steps.
-
-### Aim:
-
-
-- To develop a machine learning model using Logistic Regression that accurately classifies credit card transactions as either fraudulent or legitimate, enhancing fraud detection capability and minimizing financial losses.
-
-### Tools Used:
-
-
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-
-- Jupyter Notebook
-
-
-
 ## Project : Disease Prediction System Using SVM 🩺
 
 
@@ -225,30 +247,4 @@
 - Jupyter Notebook for development and experimentation
 
 - Streamlit (for model deployment and user interface)
-
-
-
-
-## Project : Customer Segmentation Using K-Means and PCA
-
-
-
-### Description
-
-
-- In this project, I performed customer segmentation using K-Means clustering and Principal Component Analysis (PCA) to identify distinct customer groups based on purchasing behavior. The goal was to enable data-driven marketing strategies by understanding customer profiles and preferences.
-
-
-### Aim:
-
-
-- To apply unsupervised learning techniques for segmenting customers into meaningful groups based on behavioral data, supporting personalized marketing and customer retention strategies.
-
-### Tools Used:
-
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-
-- Jupyter Notebook
-
-
 
