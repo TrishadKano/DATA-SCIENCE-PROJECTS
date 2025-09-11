@@ -225,7 +225,7 @@
 
 
 
-## Project : Disease Prediction System Using SVM 🩺
+## Project : Diabetes Prediction System Using SVM 🩺
 
 
 ### Description
